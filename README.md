@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 As a senior software developer with a bachelor's degree in information technology and a master's degree in computer engineering (in progress), I have over five years of experience in developing, debugging, and deploying applications using cutting-edge technologies and frameworks.
-My core competencies include Java development, Angular, Lightning Web Components, and microservices-based architecture. I am passionate about learning new technologies and solving complex problems. I am motivated by the opportunity to create innovative solutions that deliver value to customers and stakeholders.
+My core competencies include Java development, Angular, Spring, and microservices-based architecture. I am passionate about learning new technologies and solving complex problems. I am motivated by the opportunity to create innovative solutions that deliver value to customers and stakeholders.
