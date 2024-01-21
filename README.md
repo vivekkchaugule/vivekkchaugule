@@ -1,4 +1,4 @@
-👋 **Hello amazing GitHub explorers!**
+👋 **Hello, amazing GitHub explorers!**
 
 I am Vivek Chaugule.
 
@@ -6,7 +6,7 @@ It all started with the inquisitive mind of a 13-year-old, captivated by the inn
 
 This ignited my pursuit of a **Bachelor's in Computer Science**, where I delved into the intricacies of System and Web Programming, Computer Architecture, Databases, and Algorithms. Days and nights were devoted to constructing a line-following robot with an Arduino-C programming board, showcasing my prowess at local tech events, and culminating in crafting Android apps for the final project.
 
-A self-taught aficionado of modern web applications, I immersed myself in **SPA (Angular-MongoDB) architecture**, paving the way to a promising role as an Angular developer in a dynamic startup based in Bangalore. The journey continued, contributing significantly to developing large-scale SaaS products and instilling a sense of accomplishment with every successful code run and real-world problem solved.
+A self-taught aficionado of modern web applications, I immersed myself in learning **SPA (Angular-MongoDB) architecture**, paving the way to a promising role as an Angular developer in a dynamic startup based in Bangalore. The journey continued, contributing significantly to developing large-scale SaaS products and instilling a sense of accomplishment with every successful code run and real-world problem solved.
 
 The hunger for knowledge propelled me to master the intricacies of web applications, leading to a pivotal role at **Wrinom Solutions** as a **Senior Software Engineer**. Here, I orchestrate multiple projects using Python, Java, Angular, and modern cloud architectures while exploring innovative applications of **LLM - ChatGPT** to empower web and mobile solutions.
 
